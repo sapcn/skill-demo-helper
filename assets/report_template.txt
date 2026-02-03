@@ -1,0 +1,25 @@
+# Skill 解读报告
+
+## 基本信息
+- **名称**: {skill_name}
+- **路径**: {skill_path}
+
+## 用途描述
+{description}
+
+## 触发词
+{triggers}
+
+## 核心功能
+{features}
+
+## 资源结构
+- Scripts: {scripts_count}
+- References: {refs_count}
+- Assets: {assets_count}
+
+## 建议试用场景
+{trial_suggestion}
+
+## 验证结果
+{validation_result}
